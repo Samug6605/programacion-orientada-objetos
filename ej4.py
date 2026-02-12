@@ -1,6 +1,6 @@
 class Familia:
     def __init__(self, edad_juan):
-        # Atributo
+        # Atributo juan
         self.edad_juan = edad_juan
 
     # Método para calcular la edad de Alberto
